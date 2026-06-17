@@ -1,0 +1,11 @@
+gradio>=4.0.0
+numpy
+scipy
+soundfile
+librosa==0.10.1
+torch
+transformers>=4.35.0
+accelerate
+joblib
+scikit-learn
+matplotlib
