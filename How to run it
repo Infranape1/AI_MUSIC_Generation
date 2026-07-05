@@ -1,0 +1,28 @@
+For first time when running
+
+Step 1:
+py -3.11 -m venv venv
+
+Step 2:
+.\venv\Scripts\Activate
+
+Step 3:
+python -m pip install --upgrade pip
+
+Step 4:
+pip install -r requirements.txt
+
+Step 5:
+python app.py
+
+
+After first proper run
+
+Step 1:
+py -3.11 -m venv venv
+
+Step 2:
+.\venv\Scripts\Activate
+
+Step 3:
+python app.py
